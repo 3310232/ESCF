@@ -6,3 +6,5 @@ In this paper, we propose a novel edge and semantic collaboration framework (ESC
 \
 <img src="image/main.png" alt="image" style="zoom:60%;"/>
 
+Prediction results
+The co-saliency maps of GCoNet can be found at https://pan.baidu.com/s/1MYyfquXh-t6P7Qh575G5ew?pwd=pfng.
